@@ -1,0 +1,954 @@
+{"level":"error","message":"could not get genres could not get genres","stack":"Error: could not get genres\n    at /Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/routes/genres.js:9:11\n    at newFn (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/express/lib/router/index.js:275:10)\n    at jsonParser (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/body-parser/lib/types/json.js:110:7)\n    at newFn (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/express/lib/router/index.js:317:13)"}
+{"level":"error","message":"Bad Bad","stack":"Error: Bad\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:37:26)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"level":"error","message":"Bad Bad","stack":"Error: Bad\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:37:26)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"level":"error","message":"Bad Bad","stack":"Error: Bad\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:37:26)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47"}
+{"error":{},"level":"error","message":"uncaughtException: Worse\nError: Worse\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:40:7)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","stack":"Error: Worse\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:40:7)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","exception":true,"date":"Thu Jul 22 2021 19:53:52 GMT-0700 (Pacific Daylight Time)","process":{"pid":21163,"uid":501,"gid":20,"cwd":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly","execPath":"/usr/local/bin/node","version":"v14.17.1","argv":["/usr/local/bin/node","/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js"],"memoryUsage":{"rss":66228224,"heapTotal":38379520,"heapUsed":28898320,"external":20673065,"arrayBuffers":19127606}},"os":{"loadavg":[4.494140625,4.01708984375,3.55224609375],"uptime":721644},"trace":[{"column":7,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js","function":null,"line":40,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1085,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1114,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":950,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":790,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":76,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}]}
+{"error":{},"level":"error","message":"uncaughtException: Worse\nError: Worse\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:39:7)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","stack":"Error: Worse\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:39:7)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","exception":true,"date":"Thu Jul 22 2021 19:55:27 GMT-0700 (Pacific Daylight Time)","process":{"pid":21176,"uid":501,"gid":20,"cwd":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly","execPath":"/usr/local/bin/node","version":"v14.17.1","argv":["/usr/local/bin/node","/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js"],"memoryUsage":{"rss":66220032,"heapTotal":38379520,"heapUsed":28884440,"external":20673065,"arrayBuffers":19127606}},"os":{"loadavg":[5.22705078125,4.21044921875,3.66259765625],"uptime":721739},"trace":[{"column":7,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js","function":null,"line":39,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1085,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1114,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":950,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":790,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":76,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}]}
+{"error":{},"level":"error","message":"uncaughtException: Fatal Error: jwtPrivateKey is not defined.\nError: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:9:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","stack":"Error: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:9:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","exception":true,"date":"Tue Jul 27 2021 12:49:49 GMT-0700 (Pacific Daylight Time)","process":{"pid":30781,"uid":501,"gid":20,"cwd":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly","execPath":"/usr/local/bin/node","version":"v14.17.1","argv":["/usr/local/bin/node","/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js"],"memoryUsage":{"rss":35778560,"heapTotal":15806464,"heapUsed":10826416,"external":1743306,"arrayBuffers":438457}},"os":{"loadavg":[2.45849609375,2.65283203125,3.25341796875],"uptime":1128172},"trace":[{"column":15,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js","function":"module.exports","line":5,"method":"exports","native":false},{"column":28,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js","function":null,"line":9,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1085,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1114,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":950,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":790,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":76,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}]}
+{"error":{},"level":"error","message":"uncaughtException: Fatal Error: jwtPrivateKey is not defined.\nError: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:9:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","stack":"Error: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:9:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","exception":true,"date":"Tue Jul 27 2021 12:50:09 GMT-0700 (Pacific Daylight Time)","process":{"pid":30789,"uid":501,"gid":20,"cwd":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly","execPath":"/usr/local/bin/node","version":"v14.17.1","argv":["/usr/local/bin/node","/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js"],"memoryUsage":{"rss":36208640,"heapTotal":15806464,"heapUsed":11070712,"external":1839939,"arrayBuffers":438601}},"os":{"loadavg":[2.19140625,2.57763671875,3.2119140625],"uptime":1128192},"trace":[{"column":15,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js","function":"module.exports","line":5,"method":"exports","native":false},{"column":28,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js","function":null,"line":9,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1085,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1114,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":950,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":790,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":76,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}]}
+{"error":{},"level":"error","message":"uncaughtException: Fatal Error: jwtPrivateKey is not defined.\nError: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:9:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","stack":"Error: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:9:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","exception":true,"date":"Tue Jul 27 2021 12:51:11 GMT-0700 (Pacific Daylight Time)","process":{"pid":30797,"uid":501,"gid":20,"cwd":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly","execPath":"/usr/local/bin/node","version":"v14.17.1","argv":["/usr/local/bin/node","/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js"],"memoryUsage":{"rss":36782080,"heapTotal":16855040,"heapUsed":8402104,"external":1839939,"arrayBuffers":26810}},"os":{"loadavg":[1.7578125,2.392578125,3.0986328125],"uptime":1128254},"trace":[{"column":15,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js","function":"module.exports","line":5,"method":"exports","native":false},{"column":28,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js","function":null,"line":9,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1085,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1114,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":950,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":790,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":76,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}]}
+{"error":{},"level":"error","message":"uncaughtException: Fatal Error: jwtPrivateKey is not defined.\nError: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:9:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","stack":"Error: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:9:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","exception":true,"date":"Tue Jul 27 2021 12:53:49 GMT-0700 (Pacific Daylight Time)","process":{"pid":30816,"uid":501,"gid":20,"cwd":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly","execPath":"/usr/local/bin/node","version":"v14.17.1","argv":["/usr/local/bin/node","/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js"],"memoryUsage":{"rss":36442112,"heapTotal":16068608,"heapUsed":11076944,"external":1839939,"arrayBuffers":438601}},"os":{"loadavg":[2.240234375,2.3056640625,2.9384765625],"uptime":1128412},"trace":[{"column":15,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js","function":"module.exports","line":5,"method":"exports","native":false},{"column":28,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js","function":null,"line":9,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1085,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1114,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":950,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":790,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":76,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}]}
+{"error":{},"level":"error","message":"uncaughtException: Fatal Error: jwtPrivateKey is not defined.\nError: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:9:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","stack":"Error: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:9:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","exception":true,"date":"Tue Jul 27 2021 12:54:54 GMT-0700 (Pacific Daylight Time)","process":{"pid":30826,"uid":501,"gid":20,"cwd":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly","execPath":"/usr/local/bin/node","version":"v14.17.1","argv":["/usr/local/bin/node","/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js"],"memoryUsage":{"rss":36753408,"heapTotal":16592896,"heapUsed":8420536,"external":1839939,"arrayBuffers":26810}},"os":{"loadavg":[1.59375,2.0927734375,2.81005859375],"uptime":1128477},"trace":[{"column":15,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js","function":"module.exports","line":5,"method":"exports","native":false},{"column":28,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js","function":null,"line":9,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1085,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1114,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":950,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":790,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":76,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}]}
+{"error":{},"level":"error","message":"uncaughtException: Fatal Error: jwtPrivateKey is not defined.\nError: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:9:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","stack":"Error: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:9:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","exception":true,"date":"Tue Jul 27 2021 12:55:34 GMT-0700 (Pacific Daylight Time)","process":{"pid":30831,"uid":501,"gid":20,"cwd":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly","execPath":"/usr/local/bin/node","version":"v14.17.1","argv":["/usr/local/bin/node","/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js"],"memoryUsage":{"rss":36306944,"heapTotal":15806464,"heapUsed":10957328,"external":1839939,"arrayBuffers":438601}},"os":{"loadavg":[1.9345703125,2.09912109375,2.77685546875],"uptime":1128517},"trace":[{"column":15,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js","function":"module.exports","line":5,"method":"exports","native":false},{"column":28,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js","function":null,"line":9,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1085,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1114,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":950,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":790,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":76,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}]}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly!","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly!","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly!","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"\n    at model.Query.exec (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/query.js:4498:21)\n    at model.Query.Object.<anonymous>.Query.then (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/query.js:4592:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"\n    at model.Query.exec (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/query.js:4498:21)\n    at model.Query.Object.<anonymous>.Query.then (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/query.js:4592:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"\n    at model.Query.exec (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/query.js:4498:21)\n    at model.Query.Object.<anonymous>.Query.then (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/query.js:4592:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"\n    at model.Query.exec (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/query.js:4498:21)\n    at model.Query.Object.<anonymous>.Query.then (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/query.js:4592:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"\n    at model.Query.exec (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/query.js:4498:21)\n    at model.Query.Object.<anonymous>.Query.then (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/query.js:4592:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"\n    at model.Query.exec (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/query.js:4498:21)\n    at model.Query.Object.<anonymous>.Query.then (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/query.js:4592:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"\n    at model.Query.exec (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/query.js:4498:21)\n    at model.Query.Object.<anonymous>.Query.then (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/query.js:4592:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"\n    at model.Query.exec (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/query.js:4498:21)\n    at model.Query.Object.<anonymous>.Query.then (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/query.js:4592:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"valueType":"string","level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\" Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"\n    at model.Query.exec (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/query.js:4498:21)\n    at model.Query.Object.<anonymous>.Query.then (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/query.js:4592:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"level":"error","message":"Cannot read property 'dateReturned' of null Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at /Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/routes/returns.js:16:15"}
+{"level":"error","message":"Cannot read property 'dateReturned' of null Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at /Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/routes/returns.js:16:15"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"errors":{"dateReturned":{"stringValue":"\"[Function: now]\"","valueType":"function","kind":"date","path":"dateReturned","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="},"name":"CastError","message":"Cast to date failed for value \"[Function: now]\" (type function) at path \"dateReturned\""}},"_message":"Rental validation failed","level":"error","message":"Rental validation failed: dateReturned: Cast to date failed for value \"[Function: now]\" (type function) at path \"dateReturned\" Rental validation failed: dateReturned: Cast to date failed for value \"[Function: now]\" (type function) at path \"dateReturned\"","stack":"ValidationError: Rental validation failed: dateReturned: Cast to date failed for value \"[Function: now]\" (type function) at path \"dateReturned\"\n    at model.Object.<anonymous>.Document.invalidate (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/document.js:2757:32)\n    at model.$set (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/document.js:1324:12)\n    at model.set [as dateReturned] (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/helpers/document/compile.js:179:19)\n    at /Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/routes/returns.js:18:5"}
+{"errors":{"dateReturned":{"stringValue":"\"[Function: now]\"","valueType":"function","kind":"date","path":"dateReturned","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="},"name":"CastError","message":"Cast to date failed for value \"[Function: now]\" (type function) at path \"dateReturned\""}},"_message":"Rental validation failed","level":"error","message":"Rental validation failed: dateReturned: Cast to date failed for value \"[Function: now]\" (type function) at path \"dateReturned\" Rental validation failed: dateReturned: Cast to date failed for value \"[Function: now]\" (type function) at path \"dateReturned\"","stack":"ValidationError: Rental validation failed: dateReturned: Cast to date failed for value \"[Function: now]\" (type function) at path \"dateReturned\"\n    at model.Object.<anonymous>.Document.invalidate (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/document.js:2757:32)\n    at model.$set (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/document.js:1324:12)\n    at model.set [as dateReturned] (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/node_modules/mongoose/lib/helpers/document/compile.js:179:19)\n    at /Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/routes/returns.js:18:5"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"level":"error","message":"moment is not defined moment is not defined","stack":"ReferenceError: moment is not defined\n    at /Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/routes/returns.js:20:24"}
+{"level":"error","message":"moment is not defined moment is not defined","stack":"ReferenceError: moment is not defined\n    at /Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/routes/returns.js:20:24"}
+{"level":"error","message":"moment is not defined moment is not defined","stack":"ReferenceError: moment is not defined\n    at /Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/routes/returns.js:20:24"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"level":"error","message":"movie is not defined movie is not defined","stack":"ReferenceError: movie is not defined\n    at /Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/routes/returns.js:26:29"}
+{"level":"error","message":"movie is not defined movie is not defined","stack":"ReferenceError: movie is not defined\n    at /Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/routes/returns.js:26:29"}
+{"level":"error","message":"movie is not defined movie is not defined","stack":"ReferenceError: movie is not defined\n    at /Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/routes/returns.js:26:29"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"level":"error","message":"movie is not defined movie is not defined","stack":"ReferenceError: movie is not defined\n    at /Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/routes/returns.js:26:29"}
+{"level":"error","message":"movie is not defined movie is not defined","stack":"ReferenceError: movie is not defined\n    at /Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/routes/returns.js:26:29"}
+{"level":"error","message":"movie is not defined movie is not defined","stack":"ReferenceError: movie is not defined\n    at /Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/routes/returns.js:26:29"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"level":"error","message":"movie is not defined movie is not defined","stack":"ReferenceError: movie is not defined\n    at /Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/routes/returns.js:26:29"}
+{"level":"error","message":"movie is not defined movie is not defined","stack":"ReferenceError: movie is not defined\n    at /Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/routes/returns.js:26:29"}
+{"level":"error","message":"movie is not defined movie is not defined","stack":"ReferenceError: movie is not defined\n    at /Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/routes/returns.js:26:29"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests","level":"info"}
+{"error":{},"level":"error","message":"uncaughtException: Fatal Error: jwtPrivateKey is not defined.\nError: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:6:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","stack":"Error: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:6:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","exception":true,"date":"Thu Jul 29 2021 15:18:32 GMT-0700 (Pacific Daylight Time)","process":{"pid":42296,"uid":501,"gid":20,"cwd":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly","execPath":"/usr/local/bin/node","version":"v14.17.1","argv":["/usr/local/bin/node","/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js"],"memoryUsage":{"rss":47017984,"heapTotal":29818880,"heapUsed":13790040,"external":20044417,"arrayBuffers":18595447}},"os":{"loadavg":[3.43310546875,3.65576171875,3.55322265625],"uptime":1309878},"trace":[{"column":15,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js","function":"module.exports","line":5,"method":"exports","native":false},{"column":28,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js","function":null,"line":6,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1085,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1114,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":950,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":790,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":76,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}]}
+{"error":{},"level":"error","message":"uncaughtException: Fatal Error: jwtPrivateKey is not defined.\nError: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:6:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","stack":"Error: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:6:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","exception":true,"date":"Thu Jul 29 2021 15:24:43 GMT-0700 (Pacific Daylight Time)","process":{"pid":44112,"uid":501,"gid":20,"cwd":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly","execPath":"/usr/local/bin/node","version":"v14.17.1","argv":["/usr/local/bin/node","/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js"],"memoryUsage":{"rss":49721344,"heapTotal":29556736,"heapUsed":17515688,"external":20902141,"arrayBuffers":19453171}},"os":{"loadavg":[2.7919921875,3.02734375,3.25244140625],"uptime":1310248},"trace":[{"column":15,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js","function":"module.exports","line":5,"method":"exports","native":false},{"column":28,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js","function":null,"line":6,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1085,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1114,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":950,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":790,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":76,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}]}
+{"error":{},"level":"error","message":"uncaughtException: Fatal Error: jwtPrivateKey is not defined.\nError: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:6:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","stack":"Error: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:6:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","exception":true,"date":"Thu Jul 29 2021 15:25:42 GMT-0700 (Pacific Daylight Time)","process":{"pid":44120,"uid":501,"gid":20,"cwd":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly","execPath":"/usr/local/bin/node","version":"v14.17.1","argv":["/usr/local/bin/node","/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js"],"memoryUsage":{"rss":46592000,"heapTotal":29294592,"heapUsed":13791264,"external":20044417,"arrayBuffers":18595447}},"os":{"loadavg":[1.78662109375,2.7001953125,3.11474609375],"uptime":1310307},"trace":[{"column":15,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js","function":"module.exports","line":5,"method":"exports","native":false},{"column":28,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js","function":null,"line":6,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1085,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1114,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":950,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":790,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":76,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}]}
+{"error":{},"level":"error","message":"uncaughtException: Fatal Error: jwtPrivateKey is not defined.\nError: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:6:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","stack":"Error: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:6:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","exception":true,"date":"Thu Jul 29 2021 15:25:58 GMT-0700 (Pacific Daylight Time)","process":{"pid":44122,"uid":501,"gid":20,"cwd":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly","execPath":"/usr/local/bin/node","version":"v14.17.1","argv":["/usr/local/bin/node","/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js"],"memoryUsage":{"rss":47980544,"heapTotal":29556736,"heapUsed":17504096,"external":20902141,"arrayBuffers":19453171}},"os":{"loadavg":[1.7783203125,2.6376953125,3.08154296875],"uptime":1310323},"trace":[{"column":15,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js","function":"module.exports","line":5,"method":"exports","native":false},{"column":28,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js","function":null,"line":6,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1085,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1114,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":950,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":790,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":76,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}]}
+{"error":{},"level":"error","message":"uncaughtException: Fatal Error: jwtPrivateKey is not defined.\nError: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:6:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","stack":"Error: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:6:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","exception":true,"date":"Thu Jul 29 2021 15:29:09 GMT-0700 (Pacific Daylight Time)","process":{"pid":44409,"uid":501,"gid":20,"cwd":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly","execPath":"/usr/local/bin/node","version":"v14.17.1","argv":["/usr/local/bin/node","/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js"],"memoryUsage":{"rss":48132096,"heapTotal":29294592,"heapUsed":17492616,"external":20888684,"arrayBuffers":19439714}},"os":{"loadavg":[2.6328125,2.6376953125,2.98193359375],"uptime":1310514},"trace":[{"column":15,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js","function":"module.exports","line":5,"method":"exports","native":false},{"column":28,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js","function":null,"line":6,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1085,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1114,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":950,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":790,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":76,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}]}
+{"error":{},"level":"error","message":"uncaughtException: Fatal Error: jwtPrivateKey is not defined.\nError: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:6:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","stack":"Error: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:6:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","exception":true,"date":"Thu Jul 29 2021 15:29:17 GMT-0700 (Pacific Daylight Time)","process":{"pid":44414,"uid":501,"gid":20,"cwd":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly","execPath":"/usr/local/bin/node","version":"v14.17.1","argv":["/usr/local/bin/node","/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js"],"memoryUsage":{"rss":47366144,"heapTotal":30343168,"heapUsed":13507176,"external":20029603,"arrayBuffers":18484144}},"os":{"loadavg":[2.38134765625,2.58349609375,2.95849609375],"uptime":1310522},"trace":[{"column":15,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js","function":"module.exports","line":5,"method":"exports","native":false},{"column":28,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js","function":null,"line":6,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1085,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1114,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":950,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":790,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":76,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}]}
+{"error":{},"level":"error","message":"uncaughtException: Fatal Error: jwtPrivateKey is not defined.\nError: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:6:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","stack":"Error: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:6:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","exception":true,"date":"Thu Jul 29 2021 15:29:49 GMT-0700 (Pacific Daylight Time)","process":{"pid":44416,"uid":501,"gid":20,"cwd":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly","execPath":"/usr/local/bin/node","version":"v14.17.1","argv":["/usr/local/bin/node","/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js"],"memoryUsage":{"rss":49258496,"heapTotal":29556736,"heapUsed":17621056,"external":20998774,"arrayBuffers":19453315}},"os":{"loadavg":[2.3076171875,2.53466796875,2.92333984375],"uptime":1310554},"trace":[{"column":15,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js","function":"module.exports","line":5,"method":"exports","native":false},{"column":28,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js","function":null,"line":6,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1085,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1114,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":950,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":790,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":76,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}]}
+{"error":{},"level":"error","message":"uncaughtException: Fatal Error: jwtPrivateKey is not defined.\nError: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:6:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","stack":"Error: Fatal Error: jwtPrivateKey is not defined.\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js:5:15)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:6:28)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","exception":true,"date":"Thu Jul 29 2021 15:29:55 GMT-0700 (Pacific Daylight Time)","process":{"pid":44419,"uid":501,"gid":20,"cwd":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly","execPath":"/usr/local/bin/node","version":"v14.17.1","argv":["/usr/local/bin/node","/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js"],"memoryUsage":{"rss":47104000,"heapTotal":29556736,"heapUsed":13349592,"external":20029603,"arrayBuffers":18484144}},"os":{"loadavg":[3.24365234375,2.724609375,2.98779296875],"uptime":1310560},"trace":[{"column":15,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/config.js","function":"module.exports","line":5,"method":"exports","native":false},{"column":28,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js","function":null,"line":6,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1085,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1114,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":950,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":790,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":76,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}]}
+{"error":{},"level":"error","message":"uncaughtException: app is not defined\nReferenceError: app is not defined\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/prod.js:5:5)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:10:26)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","stack":"ReferenceError: app is not defined\n    at module.exports (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/prod.js:5:5)\n    at Object.<anonymous> (/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js:10:26)\n    at Module._compile (internal/modules/cjs/loader.js:1085:14)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:790:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)\n    at internal/main/run_main_module.js:17:47","exception":true,"date":"Thu Jul 29 2021 15:30:42 GMT-0700 (Pacific Daylight Time)","process":{"pid":44426,"uid":501,"gid":20,"cwd":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly","execPath":"/usr/local/bin/node","version":"v14.17.1","argv":["/usr/local/bin/node","/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js"],"memoryUsage":{"rss":69554176,"heapTotal":58081280,"heapUsed":29450400,"external":20526913,"arrayBuffers":18981454}},"os":{"loadavg":[2.59619140625,2.60888671875,2.92919921875],"uptime":1310607},"trace":[{"column":5,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/startup/prod.js","function":"module.exports","line":5,"method":"exports","native":false},{"column":26,"file":"/Users/akashchakka/Documents/CollegeStuff/Classes/NodeTutorial/vidly/index.js","function":null,"line":10,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1085,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1114,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":950,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":790,"method":"_load","native":false},{"column":12,"file":"internal/modules/run_main.js","function":"Function.executeUserEntryPoint [as runMain]","line":76,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"internal/main/run_main_module.js","function":null,"line":17,"method":null,"native":false}]}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
