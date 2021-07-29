@@ -9,3 +9,5 @@ NODE_ENV=test nodemon index.js
 cd Documents/CollegeStuff/Classes/NodeTutorial/vidly/
 
 package.json jest flag = --coverage
+
+https://quiet-thicket-87624.herokuapp.com/ | https://git.heroku.com/quiet-thicket-87624.git
