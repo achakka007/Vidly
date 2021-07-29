@@ -1,6 +1,7 @@
 const winston = require('winston');
 require('express-async-errors') // In case async functions have errors.
 require('winston-mongodb');
+const config = require('config');
 
 module.exports = function() {
     const db = config.get('db');
