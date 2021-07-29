@@ -4,7 +4,7 @@ require('winston-mongodb');
 
 module.exports = function() {
     winston.add(new winston.transports.File({ filename: 'logfile.log' }));
-    winston.add(new winston.transports.MongoDB({ db: 'mongodb://localhost/vidly',level: 'info'}));
+    winston.add(new winston.transports.MongoDB({ db: 'mongodb://localhost/vidly',level: 'info', tryReconnect: true}));
     winston.add(new winston.transports.Console({ colorize: true, prettyPrint: true}));
 
     winston.exceptions.handle(new winston.transports.File({ filename: 'logfile.log' }));
