@@ -1,7 +1,7 @@
 const auth = require('../middleware/auth');
 const validate = require('../middleware/validate');
-const {Movie, validator} = require('../models/movie');
-const {Genre} = require('../models/genre');
+const { Movie, validator } = require('../models/movie');
+const { Genre } = require('../models/genre');
 const express = require('express');
 const router = express.Router();
 
@@ -19,7 +19,7 @@ router.post('/', [auth, validate(validator)], async (req, res) => {
         genre: {
             _id: genre._id,
             name: genre.name
-        }, 
+        },
         numberInStock: req.body.numberInStock,
         dailyRentalRate: req.body.dailyRentalRate
     });
@@ -34,16 +34,16 @@ router.get('/:id', async (req, res) => {
 });
 
 router.put('/:id', [auth, validate(validator)], async (req, res) => {
-    const movie = await Movie.findByIdAndUpdate(req.params.id, {title: req.body.title },{
-            new: true
-        });
+    const movie = await Movie.findByIdAndUpdate(req.params.id, { title: req.body.title, numberInStock: req.body.numberInStock, dailyRentalRate: req.body.dailyRentalRate }, {
+        new: true
+    });
     if (!movie) return res.status(404).send('Movie w/ given id not found.');
-    
+
     res.send(movie);
 });
 
 router.delete('/:id', auth, async (req, res) => {
-    const movie = await Movie.findByIdAndRemove({_id: req.params.id});
+    const movie = await Movie.findByIdAndRemove({ _id: req.params.id });
     if (!movie) return res.status(404).send('Movie w/ given id not found.');
     res.send(movie);
 });

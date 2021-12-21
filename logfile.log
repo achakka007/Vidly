@@ -1,3 +1,32 @@
 
 {"message":"listening on port 5000...","level":"info"}
 {"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"expose":true,"statusCode":400,"status":400,"body":"{\n    \"title\": \"zombieFest3\",\n    \"genreId\": \"61c12811b985837a5e0009d3\",\n}","type":"entity.parse.failed","level":"error","message":"Unexpected token } in JSON at position 73 Unexpected token } in JSON at position 73","stack":"SyntaxError: Unexpected token } in JSON at position 73\n    at JSON.parse (<anonymous>)\n    at parse (/Users/akashchakka/Documents/CollegeStuff/Classes/ReactTutorial/Vidly/node_modules/body-parser/lib/types/json.js:89:19)\n    at /Users/akashchakka/Documents/CollegeStuff/Classes/ReactTutorial/Vidly/node_modules/body-parser/lib/read.js:121:18\n    at invokeCallback (/Users/akashchakka/Documents/CollegeStuff/Classes/ReactTutorial/Vidly/node_modules/raw-body/index.js:224:16)\n    at done (/Users/akashchakka/Documents/CollegeStuff/Classes/ReactTutorial/Vidly/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/akashchakka/Documents/CollegeStuff/Classes/ReactTutorial/Vidly/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:387:35)\n    at endReadableNT (internal/streams/readable.js:1317:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
+{"message":"listening on port 5000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly","level":"info"}
