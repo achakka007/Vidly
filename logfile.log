@@ -107,3 +107,7 @@
 {"level":"info","message":"Connected to mongodb+srv://vidlyuser:1234@vidly.3fhwe.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"}
 {"level":"info","message":"listening on port 5000..."}
 {"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"listening on port 5000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"listening on port 5000..."}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
